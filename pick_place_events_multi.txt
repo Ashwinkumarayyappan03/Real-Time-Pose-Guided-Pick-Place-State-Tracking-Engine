@@ -1,0 +1,4 @@
+1.87s : Backpack 1: PLACED -> PICKING
+3.83s : Backpack 1: PICKING -> PICKED
+4.33s : Backpack 1: PICKED -> PERSON LEAVES
+11.23s : Backpack 3: PLACED -> PICKING
