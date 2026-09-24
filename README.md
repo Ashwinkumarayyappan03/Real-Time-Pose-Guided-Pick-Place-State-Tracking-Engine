@@ -1,0 +1,2 @@
+# Real-Time-Pose-Guided-Pick-Place-State-Tracking-Engine
+A computer vision pipeline tracking human-object interactions in video. Combining detection, robust tracking across camera movement, and wrist keypoint extraction, it routes spatial events through a state machine. Temporal debouncing ensures reliable state transitions (PLACED→PICKING→PICKED→PERSON LEAVES→PLACING→PLACED) despite detection flicker.
